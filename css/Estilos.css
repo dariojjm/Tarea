@@ -1,13 +1,7 @@
 h1 {
     text-align: center;
     font-size: 3em;
-    color: red;
-}
-
-h2 {
-    text-align: center;
-    font-size: 2em;
-    color: #0d52d1;
+    color: rgb(44, 127, 221);
 }
 
 h3 {
@@ -23,8 +17,8 @@ p {
 }
 
 li {
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
     text-align: justify;
     font-size: 1.3em;
 }
